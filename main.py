@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://www.yamareco.com/uploads/thumbs/5087.jpg'
+img_url = 'https://www.yamakei-online.com/new_images/yamanavi/main_photo/589_raw.jpg'
 
 im = imread(img_url)
 
